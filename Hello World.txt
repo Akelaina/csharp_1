@@ -1,0 +1,2 @@
+Console.Writeline("Привет Мир!");
+Console.ReadKey();
